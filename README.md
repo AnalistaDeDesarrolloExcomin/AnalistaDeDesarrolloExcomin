@@ -1,8 +1,18 @@
 ## Hi there 👋
 
-# 💫 About Me:
-FULL STACK DEVELOPER │ DEVELOPMENTANALYST │.NET DEVELOPER
+### 💼 Development Analyst | Full Stack Developer | .NET Specialist  
+📍 Excomin · Norte de Santander, Colombia
 
+## 💫 About Me
+
+I am a **Development Analyst and Full Stack Developer at Excomin**, focused on designing, developing, and maintaining scalable software solutions that support business processes and operational efficiency.
+
+My work combines **technical development, system analysis, and continuous improvement**, contributing to enterprise-level applications using modern architectures and cloud-based technologies.
+
+I have strong experience in:
+- Requirements analysis and solution design
+- Backend and frontend development
+- API integration and system optimization
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/analistadesarrollo@excomin.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:analistadesarrollo@excomin.com) 
